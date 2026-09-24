@@ -3,9 +3,9 @@
 This project builds a simple machine learning model to predict brain weight based on head size using Linear Regression. 
 
 ## Dataset
-The model is trained on the `headbrain.csv` dataset[cite: 1]. It isolates two primary variables:
-* **Feature (X):** `Head Size(cm^3)`[cite: 1]
-* **Target (y):** `Brain Weight(grams)`[cite: 1]
+The model is trained on the `headbrain.csv`. It isolates two primary variables:
+* **Feature (X):** `Head Size(cm^3)
+* **Target (y):** `Brain Weight(grams)
 
 ## Technologies Used
 This project is built with Python and utilizes the following data science libraries[cite: 1]:
